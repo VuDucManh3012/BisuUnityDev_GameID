@@ -167,7 +167,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb6413131b43ba247ac2a8820548e387, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  path: ../BisuUnityDev/Android
+  _typeApp: 0
+  pathAndroid: ../BisuUnityDev/Android
+  pathIOS: ../BisuUnityDev/IOS
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
