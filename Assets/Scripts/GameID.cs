@@ -10,7 +10,6 @@ public class GameId
     public string adjustID = "";
 
     public string admobId = "";
-    public string admobBannerId = "";
 
     public string bannerId = "";
     public string interId = "";
